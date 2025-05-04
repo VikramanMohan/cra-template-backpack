@@ -19,6 +19,12 @@
   "engines": {
     "node": ">=10"
   },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "dev": "react-scripts start" // Add this line if missing
+  },
   "files": [
     "template",
     "template.json"
