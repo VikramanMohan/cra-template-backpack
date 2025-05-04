@@ -28,5 +28,8 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
