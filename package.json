@@ -23,7 +23,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "dev": "react-scripts start" // Add this line if missing
+    "dev": "react-scripts start"
   },
   "files": [
     "template",
